@@ -1,4 +1,4 @@
-There are six GAMS files in this repository with the contents given as follows.
+There are eight GAMS files in this repository with the contents given as follows.
 
 M1MinNofStation:  GAMS code to find minimum number of stations.
 
